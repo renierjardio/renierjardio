@@ -2,7 +2,7 @@
 
 <p align="center">
   Sofware Engineering | Data science | Artificial Intelligence <br/> <br />
-🌱 Currently building full-stack apps <br/>
+🌱 Currently exploring, designing, and building apps that promote sustainability and meaningful impact.  <br/>
 </p>
 
 
