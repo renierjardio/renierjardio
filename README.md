@@ -24,7 +24,7 @@
 ![phpMyAdmin](https://img.shields.io/badge/phpMyAdmin-6C78AF?style=for-the-badge&logo=php&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
-### 📊 GitHub Stats
+### 📊 Github work in progress
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=renierjardio&show_icons=true&theme=tokyonight" width="460" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=renierjardio&layout=compact&theme=tokyonight" width="350" />
